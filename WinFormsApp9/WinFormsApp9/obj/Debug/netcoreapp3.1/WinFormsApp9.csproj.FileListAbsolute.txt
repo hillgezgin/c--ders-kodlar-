@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\WinFormsApp9\WinFormsApp9\bin\Debug\netcoreapp3.1\WinFormsApp9.exe
+C:\Users\user\source\repos\WinFormsApp9\WinFormsApp9\bin\Debug\netcoreapp3.1\WinFormsApp9.deps.json
+C:\Users\user\source\repos\WinFormsApp9\WinFormsApp9\bin\Debug\netcoreapp3.1\WinFormsApp9.runtimeconfig.json
+C:\Users\user\source\repos\WinFormsApp9\WinFormsApp9\bin\Debug\netcoreapp3.1\WinFormsApp9.runtimeconfig.dev.json
+C:\Users\user\source\repos\WinFormsApp9\WinFormsApp9\bin\Debug\netcoreapp3.1\WinFormsApp9.dll
+C:\Users\user\source\repos\WinFormsApp9\WinFormsApp9\bin\Debug\netcoreapp3.1\WinFormsApp9.pdb
+C:\Users\user\source\repos\WinFormsApp9\WinFormsApp9\obj\Debug\netcoreapp3.1\WinFormsApp9.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WinFormsApp9\WinFormsApp9\obj\Debug\netcoreapp3.1\WinFormsApp9.Form1.resources
+C:\Users\user\source\repos\WinFormsApp9\WinFormsApp9\obj\Debug\netcoreapp3.1\WinFormsApp9.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WinFormsApp9\WinFormsApp9\obj\Debug\netcoreapp3.1\WinFormsApp9.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\WinFormsApp9\WinFormsApp9\obj\Debug\netcoreapp3.1\WinFormsApp9.AssemblyInfo.cs
+C:\Users\user\source\repos\WinFormsApp9\WinFormsApp9\obj\Debug\netcoreapp3.1\WinFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WinFormsApp9\WinFormsApp9\obj\Debug\netcoreapp3.1\WinFormsApp9.dll
+C:\Users\user\source\repos\WinFormsApp9\WinFormsApp9\obj\Debug\netcoreapp3.1\WinFormsApp9.pdb
+C:\Users\user\source\repos\WinFormsApp9\WinFormsApp9\obj\Debug\netcoreapp3.1\WinFormsApp9.genruntimeconfig.cache

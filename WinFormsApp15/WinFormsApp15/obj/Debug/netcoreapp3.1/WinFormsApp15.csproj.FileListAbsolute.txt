@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\bin\Debug\netcoreapp3.1\WinFormsApp15.exe
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\bin\Debug\netcoreapp3.1\WinFormsApp15.deps.json
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\bin\Debug\netcoreapp3.1\WinFormsApp15.runtimeconfig.json
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\bin\Debug\netcoreapp3.1\WinFormsApp15.runtimeconfig.dev.json
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\bin\Debug\netcoreapp3.1\WinFormsApp15.dll
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\bin\Debug\netcoreapp3.1\WinFormsApp15.pdb
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\obj\Debug\netcoreapp3.1\WinFormsApp15.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\obj\Debug\netcoreapp3.1\WinFormsApp15.Form1.resources
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\obj\Debug\netcoreapp3.1\WinFormsApp15.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\obj\Debug\netcoreapp3.1\WinFormsApp15.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\obj\Debug\netcoreapp3.1\WinFormsApp15.AssemblyInfo.cs
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\obj\Debug\netcoreapp3.1\WinFormsApp15.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\obj\Debug\netcoreapp3.1\WinFormsApp15.dll
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\obj\Debug\netcoreapp3.1\WinFormsApp15.pdb
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\obj\Debug\netcoreapp3.1\WinFormsApp15.genruntimeconfig.cache
